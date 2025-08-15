@@ -4,7 +4,7 @@
 This project analyzes sales data from a fictional coffee shop chain to uncover business insights, including customer behavior, product performance, and sales trends.  
 The analysis was done using **Microsoft Excel** with **Power Query** for data cleaning, **Pivot Tables** for aggregation, and an **interactive dashboard** for visualization.
 
-The goal is to demonstrate skills in **data cleaning, transformation, visualization, and business reporting** — and in future updates, this will include **Python automation** for bonus points.
+The goal is to demonstrate skills in **data cleaning, transformation, visualization, and business reporting**
 
 ---
 
@@ -65,3 +65,4 @@ The goal is to demonstrate skills in **data cleaning, transformation, visualizat
 ---
 
 ## 📂 Project Structure
+
